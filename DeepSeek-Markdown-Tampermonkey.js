@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DeepSeek 导出 (打印渲染 + Markdown目录)
+// @name         DeepSeek 聊天记录导出 (Markdown 带目录)
 // @namespace    http://tampermonkey.net/
 // @version      5.11
 // @description  打印预览强制渲染全部消息，纯Markdown目录，截断100字符
